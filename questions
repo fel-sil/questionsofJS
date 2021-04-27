@@ -1,0 +1,54 @@
+Challenges of the-complete-javascript-course
+/*const massMark = 68;
+const heightMark = 1.69;
+const massJhon = 95;
+const heightJhon = 1.95;
+
+const bmiMark = massMark / heightMark ** 2;
+const bmiJhon = massJhon / heightJhon ** 2;
+
+//console.log(bmiMark, bmiJhon);
+
+const markHigherBMI = bmiMark > bmiJhon;
+
+//console.log(markHigherBMI);
+
+if(bmiMark >= bmiJhon){
+    console.log(`Mark's BMI is higher than John's! Mark's BMI ${bmiMark} is higher than John's ${bmiJhon}!`)
+} else{
+    console.log(`Jhon's BMI is higher than Mark's! Jhon's BMI ${bmiJhon} is higher than Mark's ${bmiMark}!`)
+}*/
+
+/*const dolphins = (96 + 108 + 89)/3;
+console.log(dolphins);
+
+const koalas = (88 + 91 + 110)/3;
+console.log(koalas);
+
+const dolphinsBigger = dolphins >= 100;
+const koalasBigger = koalas >= 100;
+console.log (dolphinsBigger);
+console.log (koalasBigger);
+
+if (dolphins > koalas) {
+    console.log ("dolphins wins");
+} else if (dolphins < koalas) {
+    console.log ("koalas wins");
+} else if (dolphins === koalas) {
+    console.log("Both wins");
+}*/
+
+//bonus 1 e 2
+/*const dolphins = (97 + 112 + 81)/3;
+const koalas = (109 + 95 + 83)/3;
+console.log(dolphins, koalas);
+
+if (dolphins > koalas && dolphins >= 100) {
+    console.log ("Dolphins wins");
+} else if (dolphins < koalas && koalas >= 100) {
+    console.log ("Koalas wins");
+} else if (dolphins === koalas && dolphins >= 100 && koalas >= 100) {
+    console.log("Both wins");
+} else {
+    console.log("No one wins")
+}*/
