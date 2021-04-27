@@ -1,3 +1,3 @@
 # questionsofJS
-javascript question repository
-diverse JavaScript issues
+Javascript question repository
+<br>Diverse JavaScript issues
